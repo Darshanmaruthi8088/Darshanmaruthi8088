@@ -1,18 +1,13 @@
-<!-- Typing Animation Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F9FF&center=true&vCenter=true&lines=Hey+I'm+Darshan+👋;Passionate+Engineering+Student;CSE+Student+%40+BMSCE;Future+Software+Developer+🚀" />
-</p>
+<h1 align="center">⚡ Hey, I'm Darshan 👋</h1>
+
+<h3 align="center">🚀 Passionate Engineering Student | CSE Student @ BMSCE</h3>
 
 ---
 
-<h1 align="center">⚡ Passionate Engineering Student | CSE Student @ BMSCE</h1>
-
----
-
-## 🌟 About Me  
-- I’m an engineering student at **BMSCE**  
-- I love building apps and learning new technologies  
-- Passionate about contributing to open-source and improving every day  
+## ✨ About Me  
+🔹 I’m an engineering student at BMSCE  
+🔹 I love building apps, learning new technologies  
+🔹 Passionate about contributing to open-source and improving every day  
 
 ---
 
@@ -43,10 +38,10 @@
 
 ---
 
-## 📊 GitHub Stats  
+## ⚡ GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarshanPN090&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DarshanPN090&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanPN090&theme=radical" />
 </p>
 
 ---
@@ -58,7 +53,7 @@
 
 ---
 
-## 👀 Profile Views  
+## 👁️ Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DarshanPN090&color=blueviolet&style=flat-square" />
 </p>
