@@ -1,18 +1,18 @@
-<!-- Profile Banner -->
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6rkQYBq.gif" width="600">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F9FF&center=true&vCenter=true&lines=Hey+I'm+Darshan+👋;Passionate+Engineering+Student;CSE+Student+%40+BMSCE;Future+Software+Developer+🚀" />
 </p>
-
-<h1 align="center">⚡ Hey, I'm Darshan 👋</h1>
-
-<h3 align="center">🚀 Passionate Engineering Student | CSE Student @ BMSCE</h3>
 
 ---
 
-## ✨ About Me  
-🔹 I’m an engineering student at BMSCE  
-🔹 I love building apps, learning new technologies  
-🔹 Passionate about contributing to open-source and improving every day  
+<h1 align="center">⚡ Passionate Engineering Student | CSE Student @ BMSCE</h1>
+
+---
+
+## 🌟 About Me  
+- I’m an engineering student at **BMSCE**  
+- I love building apps and learning new technologies  
+- Passionate about contributing to open-source and improving every day  
 
 ---
 
@@ -34,7 +34,7 @@
 ## 💻 Tech Stack (Learning)
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -43,29 +43,22 @@
 
 ---
 
-## ⚡ GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarshanPN090&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanPN090&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DarshanPN090&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPN090&layout=compact&theme=radical&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPN090&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## ⚡ Fun GIF  
-<p align="center">
-  <img src="https://i.imgur.com/1Zd7biH.gif" width="350">
-</p>
-
----
-
-## 👁️ Profile Views  
+## 👀 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DarshanPN090&color=blueviolet&style=flat-square" />
 </p>
@@ -74,12 +67,4 @@
 
 <p align="center">
   <b>🔥 Keep Coding. Keep Growing. Keep Winning. 🔥</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F9FF&center=true&vCenter=true&lines=Hey+I'm+Darshan+👋;Passionate+Engineering+Student;CSE+Student+%40+BMSCE;Future+Software+Developer+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/9fF4S5n.gif" width="800" />
 </p>
