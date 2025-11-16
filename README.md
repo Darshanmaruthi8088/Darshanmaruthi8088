@@ -40,22 +40,22 @@
 
 ## ⚡ GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarshanPN090&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanPN090&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Darshanmaruthi8088&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanmaruthi8088&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPN090&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshanmaruthi8088&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ## 👁️ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarshanPN090&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Darshanmaruthi8088&color=blueviolet&style=flat-square" />
 </p>
 
 ---
